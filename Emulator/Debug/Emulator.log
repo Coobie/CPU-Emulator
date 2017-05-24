@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Emulator.cpp
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(650): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(739): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1239): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1289): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1411): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1470): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1665): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1724): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1758): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1850): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1913): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(2084): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(1713): warning C4101: 'temp_word2': unreferenced local variable
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(3571): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(3580): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(3884): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\jacob\onedrive\uwe-1\computer and network systems\assignments\one\cpu-emulation - copy\emulator\emulator.cpp(3889): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+  Emulator.vcxproj -> C:\Users\Jacob\OneDrive\UWE-1\Computer and Network Systems\Assignments\One\CPU-Emulation - Copy\Debug\Emulator.exe
+  Emulator.vcxproj -> C:\Users\Jacob\OneDrive\UWE-1\Computer and Network Systems\Assignments\One\CPU-Emulation - Copy\Debug\Emulator.pdb (Full PDB)
